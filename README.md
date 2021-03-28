@@ -29,7 +29,7 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/Expert-Hacker/E-TOOL.git
+$ git clone https://github.com/Black-S0UL/E-TOOL.git
 ```
 ```
 $ cd E-TOOL
